@@ -8,7 +8,7 @@ echo '	🔒 Root permissions are needed to install the icon pack system-wide.'
 echo ''
 echo '	🔑 Please enter your password when prompted to do so.'
 echo ''
-mkdir x
+mkdir blue-accent-icons
 cp -r ./* ./blue-accent-icons/
 sudo mv ./blue-accent-icons/ /usr/share/icons
 cp -r /usr/share/icons/blue-accent-icons/ ~/.local/share/icons/
