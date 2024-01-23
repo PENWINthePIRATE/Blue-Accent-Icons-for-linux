@@ -7,10 +7,11 @@ echo ''
 echo '	🔑 Please enter your password when prompted to do so.'
 echo ''
 mkdir x
-cp -r ./* ./x/
-sudo mv ./x/ /usr/share/icons
-cp -r /usr/share/icons/x/ ~/.local/share/icons/
+cp -r ./* ./blue-accent-icons/
+sudo mv ./blue-accent-icons/ /usr/share/icons
+cp -r /usr/share/icons/blue-accent-icons/ ~/.local/share/icons/
 echo ''
 echo '	✅ The icon pack was installed successfully.'
 echo ''
-echo 'Thank you for installing BlueAccent Icons'
+echo 'Thank you for installing Blue-Accent Icons'
+echo 'please show support and encouragement to PENWINthePIRATE, we cannot do it without you :) '
