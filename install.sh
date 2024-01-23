@@ -1,6 +1,8 @@
 #!/bin/bash
-# Installation script for icons by wd613
-# Excuse my BASH scripting skills
+# Installation script for icons by wd613 -wd613
+# Thank you wd613, It was great meeting you. Would like to see you again. -penwin
+# Excuse my BASH scripting skills -wd613
+# You're excused :) -penwin
 echo ''
 echo '	🔒 Root permissions are needed to install the icon pack system-wide.'
 echo ''
