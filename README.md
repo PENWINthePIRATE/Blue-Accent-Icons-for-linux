@@ -38,5 +38,5 @@ any ideas for the future of this icon pack? This icon pack lacks icons and is cu
 
 
 ##### please show love and support on: 
-instagram : @im._najwan <br>
+instagram : @naj._wrld <br>
 Discord : PENWINthePIRATE
